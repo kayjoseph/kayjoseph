@@ -9,8 +9,7 @@ With hands-on experience in data analysis, software development, and customer en
 
 ## 💡 About Me
 
-- 🎓 **BSc. in Computer Science**
-- 💼 Interned at **Kenya Industrial Property Institute (KIPI)** — Trademarks Department  
+- 🎓 **BSc. in Computer Science - Kenyatta University** 
 - ⚙️ Skilled in **Python, Java, C++, SQL, Power BI, KNIME**
 - 📊 Experienced in **data cleaning, visualization, and reporting**
 - 📚 Strong foundation in **legal & ethical issues in computing**
