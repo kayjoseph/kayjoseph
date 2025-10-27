@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Joseph Kioko from 🇰🇪
+## Hi there 👋 I'm Joseph Kioko
 
 🎯 **Computer Science Graduate | Data Analyst | IT Technical Support**
 
