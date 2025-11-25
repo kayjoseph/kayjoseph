@@ -20,7 +20,6 @@ I’m passionate about transforming ideas into impactful digital solutions.
 - Deepening my skills in **data analytics and visualization**
 - Building a strong portfolio of real-world projects
 - Exploring **AI, machine learning, and automation tools**
-- 
 ---
 
 ## 🛠️ Tech Stack
