@@ -26,7 +26,7 @@ I’m passionate about transforming ideas into impactful digital solutions.
 
 **Languages:** Python | Java | C++ | SQL  
 **Tools & Platforms:** Power BI | KNIME | MySQL | VS Code | Git | Excel  
-**Concepts:** Data Cleaning | Visualization | ETL | Problem Solving | Debugging
+**Concepts:** Data Cleaning | Visualization | ETL | Problem Solving
 
 ---
 
