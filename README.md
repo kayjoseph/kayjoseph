@@ -34,4 +34,4 @@ I’m passionate about transforming ideas into impactful digital solutions.
 
 - 💼 [LinkedIn](#)  
 - 🐙 https://github.com/kayjoseph  
-- ✉️ josephkay@example.com  
+- ✉️ kayjoseph049@gmail.com 
