@@ -33,5 +33,5 @@ I’m passionate about transforming ideas into impactful digital solutions.
 ## 🌱 Let’s Connect
 
 - 💼 [LinkedIn](#)  
-- 🐙 [GitHub](https://github.com/your-username)  
+- 🐙 https://github.com/kayjoseph  
 - ✉️ josephkay@example.com  
