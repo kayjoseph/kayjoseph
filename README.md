@@ -2,7 +2,7 @@
 
 🎯 **Computer Science Graduate | Data Analyst | IT Technical Support**
 
-I’m passionate about transforming ideas into impactful digital solutions.  
+Passionate about transforming ideas into impactful digital solutions.  
 
 ---
 
