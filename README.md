@@ -1,4 +1,4 @@
-## Hello World👋 I'm Joseph Kioko
+## Hello, I'm Joseph Kioko
 
 🎯 **Computer Science Graduate | Data Analyst | IT Technical Support**
 
