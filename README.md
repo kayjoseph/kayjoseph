@@ -30,7 +30,7 @@ Passionate about transforming ideas into impactful digital solutions.
 
 ---
 
-## 🌱 Let’s Connect
+## Let’s Connect
 
 - 💼 https://www.linkedin.com/in/joseph-kioko-96b40b240  
 - 🐙 https://github.com/kayjoseph  
