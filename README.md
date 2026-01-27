@@ -24,7 +24,7 @@ Passionate about transforming ideas into impactful digital solutions.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python | Java | C++ | SQL  
+**Languages:** Python | Java | C++ | SQL | Dart
 **Tools & Platforms:** Power BI | KNIME | MySQL | VS Code | Git | Excel  
 **Concepts:** Data Cleaning | Visualization | ETL | Problem Solving
 
