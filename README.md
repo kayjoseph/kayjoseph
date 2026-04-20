@@ -1,6 +1,6 @@
 ## Hello, I'm Joseph Kioko
 
-🎯 **Computer Science Graduate | Data Analyst | IT Technical Support**
+🎯 **Computer Science | Data Analyst | IT Technical Support**
 
 Passionate about transforming ideas into impactful digital solutions.  
 
